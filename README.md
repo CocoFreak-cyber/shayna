@@ -1,2 +1,24 @@
 # shayna
-Project aplikasi vue sebagai bahan belajar kelas Fullstack Laravel Vue.JS (Toko Online)
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
